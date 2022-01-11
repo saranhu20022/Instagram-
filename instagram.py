@@ -1,5 +1,5 @@
 # Date: 12/29/2018
-# Author: Mohamed
+# Author: athena_11_
 # Description: Instagram bruter
 
 # from lib.proxy import Proxy
